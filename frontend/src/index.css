@@ -1,13 +1,21 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.abc{
+    float:right
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h2{
+    text-align:center;
 }
+.card-body{
+    align-content: left;
+    background-color: #6495ED;
+}
+h2,h1,h5{
+    text-align: center;
+   }
+   .card-title{
+    text-align: center;
+   }
+   body{
+    background-image:url(' https://www.desktopbackground.org/download/1280x720/2013/10/18/656011_website-backgrounds-white-blue_1322x936_h.jpg');
+    background-repeat:no-repeat ;
+    background-size: 100%;
+   }
